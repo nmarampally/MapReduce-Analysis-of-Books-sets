@@ -1,6 +1,6 @@
 
 
-# Hadoop MapReduce Analysis - Books Set
+# Hadoop MapReduce Analysis - Books Set --- Built Mapper and Reducer Script to analyze the data of Book sets from openlibrary.org
 
 In this project we are going to analyse the data provided by openlibrary.org
 
